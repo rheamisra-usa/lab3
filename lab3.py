@@ -1,5 +1,6 @@
 # CIS-117 Lab3
-# Write a description of your module here
+# This module reads country data from a CSV file and creates a separate 
+# CSV file for each region, containing each country;s name and region.
 # Rhea Misra
 import csv
 import re
